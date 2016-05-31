@@ -2,7 +2,7 @@ This is an example of using a PSR-4 autoloader with phpspec.
 
 # How it works
 
-In your [Composer PSR-4 autoloader](https://getcomposer.org/doc/04-schema.md#psr-4), make sure the namespace is consistent with the `namespace` and `psr-4_prefix` settings for your test suite in your `phpspec.yml` file. Review those files in this repository for an example.
+In your [Composer PSR-4 autoloader](https://getcomposer.org/doc/04-schema.md#psr-4), make sure the namespace is consistent with the `namespace` and `psr-4_prefix` [settings](http://www.phpspec.net/en/latest/cookbook/configuration.html#psr-4) for your test suite in your `phpspec.yml` file. Review those files in this repository for an example.
 
 # Usage
 
