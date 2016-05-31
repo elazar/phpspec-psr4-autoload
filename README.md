@@ -73,7 +73,7 @@ Acme/Text/Markdown
   Do you want me to create `Acme\Text\Markdown` for you?
                                                                          [Y/n] y
 
-Class Acme\Text\Markdown created in /Users/matthewturland/Projects/personal/phpspec-psr4-autoload/src/Markdown.php.
+Class Acme\Text\Markdown created in src/Markdown.php.
 
                                       100%                                       1
 1 specs
